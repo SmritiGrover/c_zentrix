@@ -1,0 +1,149 @@
+2019-06-19 16:00:55,525 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:01:05,400 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:01:05,434 - MethodClass -INFO - window maximize
+2019-06-19 16:02:31,755 - MethodClass -INFO - call screen shot method
+2019-06-19 16:02:32,008 - MethodClass -INFO -  check url assertion
+2019-06-19 16:02:32,027 - MethodClass -INFO - fill user name
+2019-06-19 16:02:32,175 - MethodClass -INFO - fill password
+2019-06-19 16:02:41,217 - MethodClass -INFO - login success
+2019-06-19 16:02:41,218 - MethodClass -INFO - new session is start
+2019-06-19 16:03:33,953 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:03:44,248 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:03:44,307 - MethodClass -INFO - window maximize
+2019-06-19 16:04:59,359 - MethodClass -INFO - call screen shot method
+2019-06-19 16:04:59,681 - MethodClass -INFO -  check url assertion
+2019-06-19 16:04:59,698 - MethodClass -INFO - fill user name
+2019-06-19 16:04:59,834 - MethodClass -INFO - fill password
+2019-06-19 16:05:05,189 - MethodClass -INFO - login success
+2019-06-19 16:05:05,192 - MethodClass -INFO - new session is start
+2019-06-19 16:05:35,306 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:05:45,365 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:05:45,404 - MethodClass -INFO - window maximize
+2019-06-19 16:07:43,159 - MethodClass -INFO - call screen shot method
+2019-06-19 16:07:43,438 - MethodClass -INFO -  check url assertion
+2019-06-19 16:07:43,450 - MethodClass -INFO - fill user name
+2019-06-19 16:07:43,590 - MethodClass -INFO - fill password
+2019-06-19 16:07:44,225 - MethodClass -INFO - login success
+2019-06-19 16:07:44,226 - MethodClass -INFO - new session is start
+2019-06-19 16:07:49,173 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:07:49,287 - Test_czentrix -INFO - start gateway test
+2019-06-19 16:07:49,357 - Test_czentrix -INFO - start sip test
+2019-06-19 16:07:49,386 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:07:49,418 - Test_czentrix -INFO - start list test
+2019-06-19 16:07:49,449 - Test_czentrix -INFO - start agent test
+2019-06-19 16:07:49,484 - Test_czentrix -INFO - sip channel configuration test
+2019-06-19 16:14:06,255 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:14:15,861 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:14:15,922 - MethodClass -INFO - window maximize
+2019-06-19 16:14:19,044 - MethodClass -INFO - call screen shot method
+2019-06-19 16:14:19,261 - MethodClass -INFO -  check url assertion
+2019-06-19 16:14:19,274 - MethodClass -INFO - fill user name
+2019-06-19 16:14:19,390 - MethodClass -INFO - fill password
+2019-06-19 16:14:19,684 - MethodClass -INFO - login success
+2019-06-19 16:14:19,685 - MethodClass -INFO - new session is start
+2019-06-19 16:14:23,645 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:14:23,927 - Test_czentrix -INFO - start gateway test
+2019-06-19 16:14:24,015 - Test_czentrix -INFO - start sip test
+2019-06-19 16:14:24,096 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:14:24,142 - Test_czentrix -INFO - start list test
+2019-06-19 16:14:24,174 - Test_czentrix -INFO - start agent test
+2019-06-19 16:14:24,219 - Test_czentrix -INFO - sip channel configuration test
+2019-06-19 16:20:30,255 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:20:40,477 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:20:40,506 - MethodClass -INFO - window maximize
+2019-06-19 16:20:54,639 - MethodClass -INFO - call screen shot method
+2019-06-19 16:20:54,836 - MethodClass -INFO -  check url assertion
+2019-06-19 16:20:54,849 - MethodClass -INFO - fill user name
+2019-06-19 16:20:54,976 - MethodClass -INFO - fill password
+2019-06-19 16:20:56,272 - MethodClass -INFO - login success
+2019-06-19 16:20:56,274 - MethodClass -INFO - new session is start
+2019-06-19 16:21:03,369 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:21:03,570 - Test_czentrix -INFO - start gateway test
+2019-06-19 16:21:03,628 - Test_czentrix -INFO - start sip test
+2019-06-19 16:21:03,663 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:21:03,759 - Test_czentrix -INFO - start list test
+2019-06-19 16:21:03,800 - Test_czentrix -INFO - start agent test
+2019-06-19 16:21:03,857 - Test_czentrix -INFO - sip channel configuration test
+2019-06-19 16:22:53,137 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:23:03,131 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:23:03,172 - MethodClass -INFO - window maximize
+2019-06-19 16:23:06,397 - MethodClass -INFO - call screen shot method
+2019-06-19 16:23:06,591 - MethodClass -INFO -  check url assertion
+2019-06-19 16:23:06,605 - MethodClass -INFO - fill user name
+2019-06-19 16:23:06,789 - MethodClass -INFO - fill password
+2019-06-19 16:23:07,155 - MethodClass -INFO - login success
+2019-06-19 16:23:07,156 - MethodClass -INFO - new session is start
+2019-06-19 16:23:12,929 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:23:13,041 - Test_czentrix -INFO - start gateway test
+2019-06-19 16:23:13,089 - Test_czentrix -INFO - start sip test
+2019-06-19 16:23:13,125 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:23:13,185 - Test_czentrix -INFO - start list test
+2019-06-19 16:23:13,238 - Test_czentrix -INFO - start agent test
+2019-06-19 16:23:13,271 - Test_czentrix -INFO - sip channel configuration test
+2019-06-19 16:28:21,009 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:28:31,588 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:28:31,621 - MethodClass -INFO - window maximize
+2019-06-19 16:28:37,703 - MethodClass -INFO - call screen shot method
+2019-06-19 16:28:37,944 - MethodClass -INFO -  check url assertion
+2019-06-19 16:28:37,957 - MethodClass -INFO - fill user name
+2019-06-19 16:28:38,090 - MethodClass -INFO - fill password
+2019-06-19 16:28:38,616 - MethodClass -INFO - login success
+2019-06-19 16:28:38,618 - MethodClass -INFO - new session is start
+2019-06-19 16:28:44,056 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:28:44,232 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:33:18,783 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:33:35,991 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:33:36,178 - MethodClass -INFO - window maximize
+2019-06-19 16:33:40,695 - MethodClass -INFO - call screen shot method
+2019-06-19 16:33:41,016 - MethodClass -INFO -  check url assertion
+2019-06-19 16:33:41,037 - MethodClass -INFO - fill user name
+2019-06-19 16:33:41,147 - MethodClass -INFO - fill password
+2019-06-19 16:33:41,619 - MethodClass -INFO - login success
+2019-06-19 16:33:41,620 - MethodClass -INFO - new session is start
+2019-06-19 16:33:47,168 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:33:47,303 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:39:05,444 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:39:16,666 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:39:16,689 - MethodClass -INFO - window maximize
+2019-06-19 16:39:22,600 - MethodClass -INFO - call screen shot method
+2019-06-19 16:39:22,785 - MethodClass -INFO -  check url assertion
+2019-06-19 16:39:22,797 - MethodClass -INFO - fill user name
+2019-06-19 16:39:22,937 - MethodClass -INFO - fill password
+2019-06-19 16:39:24,224 - MethodClass -INFO - login success
+2019-06-19 16:39:24,226 - MethodClass -INFO - new session is start
+2019-06-19 16:40:12,744 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:40:22,344 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:40:22,376 - MethodClass -INFO - window maximize
+2019-06-19 16:40:25,711 - MethodClass -INFO - call screen shot method
+2019-06-19 16:40:25,906 - MethodClass -INFO -  check url assertion
+2019-06-19 16:40:25,920 - MethodClass -INFO - fill user name
+2019-06-19 16:40:26,031 - MethodClass -INFO - fill password
+2019-06-19 16:40:26,409 - MethodClass -INFO - login success
+2019-06-19 16:40:26,410 - MethodClass -INFO - new session is start
+2019-06-19 16:40:30,530 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:40:30,745 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:40:30,791 - CampaignForm -INFO - start campaign method
+2019-06-19 16:40:32,808 - CampaignForm -INFO - fill Campagn details
+2019-06-19 16:41:01,467 - CampaignForm -INFO - campaign creation successful
+2019-06-19 16:41:05,252 - CampaignForm -INFO - Disp creation successful
+2019-06-19 16:41:07,135 - CampaignForm -INFO - closed campaign method
+2019-06-19 16:41:07,140 - Test_czentrix -INFO - close campaign testcase
+2019-06-19 16:41:28,540 - Test_czentrix -INFO - start before testcase
+2019-06-19 16:41:38,670 - MethodClass -INFO - Firefox Opened
+2019-06-19 16:41:38,700 - MethodClass -INFO - window maximize
+2019-06-19 16:41:41,394 - MethodClass -INFO - call screen shot method
+2019-06-19 16:41:41,569 - MethodClass -INFO -  check url assertion
+2019-06-19 16:41:41,585 - MethodClass -INFO - fill user name
+2019-06-19 16:41:41,752 - MethodClass -INFO - fill password
+2019-06-19 16:41:42,091 - MethodClass -INFO - login success
+2019-06-19 16:41:42,092 - MethodClass -INFO - new session is start
+2019-06-19 16:41:45,968 - Test_czentrix -INFO - close before testcase
+2019-06-19 16:41:46,137 - Test_czentrix -INFO - start campaign testcase
+2019-06-19 16:41:46,170 - CampaignForm -INFO - start campaign method
+2019-06-19 16:41:47,472 - CampaignForm -INFO - fill Campagn details
+2019-06-19 16:42:10,306 - CampaignForm -INFO - campaign creation successful
+2019-06-19 16:42:14,554 - CampaignForm -INFO - Disp creation successful
+2019-06-19 16:42:16,372 - CampaignForm -INFO - closed campaign method
+2019-06-19 16:42:16,378 - Test_czentrix -INFO - close campaign testcase
+2019-06-19 18:21:14,436 - Test_czentrix -INFO - start before testcase
+2019-06-20 16:26:48,257 - Test_czentrix -INFO - start before testcase

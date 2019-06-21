@@ -1,0 +1,149 @@
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start gateway test
+[main] INFO Test_czentrix - start sip test
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start list test
+[main] INFO Test_czentrix - start agent test
+[main] INFO Test_czentrix - sip channel configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start gateway test
+[main] INFO Test_czentrix - start sip test
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start list test
+[main] INFO Test_czentrix - start agent test
+[main] INFO Test_czentrix - sip channel configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start gateway test
+[main] INFO Test_czentrix - start sip test
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start list test
+[main] INFO Test_czentrix - start agent test
+[main] INFO Test_czentrix - sip channel configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start gateway test
+[main] INFO Test_czentrix - start sip test
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start list test
+[main] INFO Test_czentrix - start agent test
+[main] INFO Test_czentrix - sip channel configuration test
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - close campaign testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO MethodClass - Firefox Opened
+[main] INFO MethodClass - window maximize
+[main] INFO MethodClass - call screen shot method
+[main] INFO MethodClass -  check url assertion
+[main] INFO MethodClass - fill user name
+[main] INFO MethodClass - fill password
+[main] INFO MethodClass - login success
+[main] INFO MethodClass - new session is start
+[main] INFO Test_czentrix - close before testcase
+[main] INFO Test_czentrix - start campaign testcase
+[main] INFO CampaignForm - start campaign method
+[main] INFO CampaignForm - fill Campagn details
+[main] INFO CampaignForm - campaign creation successful
+[main] INFO CampaignForm - Disp creation successful
+[main] INFO CampaignForm - closed campaign method
+[main] INFO Test_czentrix - close campaign testcase
+[main] INFO Test_czentrix - start before testcase
+[main] INFO Test_czentrix - start before testcase
